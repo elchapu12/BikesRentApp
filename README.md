@@ -1,0 +1,1 @@
+BikeRentApp es una aplicación móvil diseñada para facilitar el alquiler de bicicletas de manera rápida, segura y cómoda. Permite a los usuarios registrarse, localizar estaciones disponibles en un mapa, consultar la disponibilidad de bicicletas en tiempo real y realizar reservas o devoluciones fácilmente.
